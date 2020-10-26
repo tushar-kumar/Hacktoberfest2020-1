@@ -5,7 +5,7 @@
 ( https://github.com/OpenSouceCode/Hacktoberfest2020/issues/302 )
 
 Hi there,
-
+<!-- This is a comment line ignore it HACKTOBERFEST -->
 Thank you for your interest in Hacktoberfest and in helping others make their first contributions to open source.
 
 While we agree that it's important to help others, this repository does not do this in a way that is in line with the Hacktoberfest values. Please read the part that talks about high-quality contributions to understand why we are reaching out and taking action. Due to this, we've added this repository to the list of excluded repositories which means pull requests here will not count toward Hacktoberfest 2020.
